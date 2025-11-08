@@ -25,10 +25,8 @@ Use `/sbq` in chat to:
 - ✅ Enable or disable the addon  
 - ⚙️ Set the **minimum item quality** to sell
 - ⚙️ To see all settings commands
+![Sbq config](https://media.forgecdn.net/attachments/1347/291/wowscrnshot_100525_023552-jpg.jpg)
 
-Example:
-
-/sbq
 
 ---
 

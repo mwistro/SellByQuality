@@ -52,9 +52,9 @@ That’s it! The addon will be ready the next time you launch World of Warcraft.
 ### 🔹 Manual Installation
 1. Download the latest release from [CurseForge](https://www.curseforge.com/wow/addons/sellbyquality) or clone this repository.  
 2. Extract or copy the folder `SellByQuality` into your WoW addons directory:
-World of Warcraft/retail/Interface/AddOns/
-3. Restart the game or reload your UI:
-4. Type `/sbq` in chat to access options.
+- World of Warcraft/retail/Interface/AddOns/
+4. Restart the game or reload your UI:
+5. Type `/sbq` in chat to access options.
 
 ---
 

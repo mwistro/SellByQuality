@@ -1,7 +1,7 @@
 # 🛡️ SellByQuality – Ironman Challenge Helper
 
 A lightweight World of Warcraft addon built to help **Ironman challengers** stay compliant with challenge rules.  
-When visiting a vendor, **SellByQuality** automatically detects **uncommon (green)** and higher-quality items in your bags and offers to sell them — preventing accidental use or equip of disqualifying gear.
+When visiting a vendor, **SellByQuality** automatically detects **uncommon (green)** and higher-quality items in your bags and offers to sell them preventing accidental use or equip of disqualifying gear.
 
 ---
 

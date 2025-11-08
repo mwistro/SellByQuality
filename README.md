@@ -14,6 +14,8 @@ When visiting a vendor, **SellByQuality** automatically detects **uncommon (gree
 - 🔄 **Fully Passive** — Install and forget — the addon handles everything automatically.  
 - 🧱 **Retail Support** — Compatible with *The War Within (Retail 11.x)*.
 
+![Selling Box](https://media.forgecdn.net/attachments/1347/290/wowscrnshot_100525_012814-jpg.jpg)
+
 ---
 
 ## 📱 Commands

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="SellByQuality Banner" />
+</p>
+
 # 🛡️ SellByQuality – Ironman Challenge Helper
 
 A lightweight World of Warcraft addon built to help **Ironman challengers** stay compliant with challenge rules.  

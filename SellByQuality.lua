@@ -177,7 +177,7 @@ SlashCmdList['SELLBYQUALITY'] = function(msg)
     c('Available commands:')
     print('|cff00ff00/sbq on|r - Enable addon')
     print('|cff00ff00/sbq off|r - Disable addon')
-    print('|cff00ff00/sbq quality <0-5>|r - Set minimum quality ( 2 = Green )')
+    print('|cff00ff00/sbq quality <0-5>|r - Set minimum quality (2 = Green)')
   end
 end
 

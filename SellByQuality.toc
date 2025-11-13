@@ -1,7 +1,7 @@
 ## Interface: 110200
 ## Title: SellByQuality
-## Notes: Automatically sells all uncommon (green) and higher items with a confirmation popup.
-## Author: oMaistro
+## Notes: Automatically sells all green and higher items with a confirmation popup.
+## Author: Maistro
 ## Version: 1.0
 ## SavedVariables: SellByQualityDB
 ## IconTexture: Interface\AddOns\SellByQuality\icon.blp
